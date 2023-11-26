@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "login": "maria@gmail.com",
+        "password": "4321"
+    },
+    {
+        "id": 1,
+        "login": "jorge@gmail.com",
+        "password": "1234"
+    },
+    {
+        "id": 2,
+        "login": "fernanda@gmail.com",
+        "password": "7412"
+    },
+    {
+        "id": 3,
+        "login": "otavio@gmail.com",
+        "password": "2147"
+    },
+    {
+        "id": 4,
+        "login": "venu12201@gmail.com",
+        "password": "Maddineni@1234"
+    }
+]

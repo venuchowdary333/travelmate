@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+<!-- Seperate CSS for Printing -->
+<link rel="stylesheet" type="text/css" href="printstyle.css" media="print">
+</head>
+<script src="cars.js"></script>
+<header>
+<div class="header">
+	<a href="home.html" class="logo"><img src="homeimages/logo3.png"></a>
+	<div class="navbuttons">
+    <a href="home.html">Home</a>
+    <a href="destinations.html">Destinations</a>
+    <a href="hotels.html">Hotels</a>
+	<a href="flights.html">Flight</a>
+	<a href="car_rentals.html">Car Rental</a>
+	<a href="index.html">Logout</a>
+	</div>
+</div>
+</header>
+
+<body onload="loadXMLDoc('')" >
+<div id="page-container">
+	<div id="content-wrap">	
+		<h1>Hello travellers. Where would you like to go?</h1>		
+		<div class="main">
+			<div id="rightblock1">
+				<h2>Cars:</h2>
+				<h3>Search your trip</h3>
+				<div><p id="filter" >Filter Results:</p>	
+					<form id="productquery" onsubmit="return validateForm()">
+						<div class="row">
+							<div class="form-group flex-column">
+								<label for="origin" class="d-inline-flex">Enter</label>
+								<input type="text" placeholder="City or Airport" class="form-control" id="origin" name="origin"
+									required>
+							</div>
+
+							<div class="form-group col-md align-items-start flex-column">
+								<label for="departure-date" class=" d-inline-flex">Date&Time</label>
+								<input type="date" class="form-control" id="departure-date" name="departure-date"
+									onkeydown="return false" required>
+							</div>							
+							
+						</div>
+						<div class="text-right col-auto">
+							<button type="button" onclick="searchXML()">Find deals</button>
+						</div>
+						
+					</form>
+					
+					<div id="results">
+					</div>	
+					<div id="resultarea" >
+					</div>
+					
+					<div id="destinations" >
+					</div>
+				</div>			
+	</div>
+	</div>
+		
+		<div id="resultarea" >
+		</div>
+		
+		<div id="destinations" >
+		</div>
+		
+	</div>
+	
+	<footer id="footer">
+	<p><br>Copyright © 2023 - TravelMate - All Rights Reserved.</p>
+	</footer>
+</div>
+
+
+
+</body>
+</html>

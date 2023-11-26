@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>live search</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+<!-- Seperate CSS for Printing -->
+<link rel="stylesheet" type="text/css" href="printstyle.css" media="print">
+    <link rel="stylesheet" href="cars.css">
+</head>
+<header>
+	<div class="header">
+		<a href="home.html" class="logo"><img src="homeimages/logo3.png"></a>
+		<div class="navbuttons">
+		<a href="home.html">Home</a>
+		<a href="destinations.html">Destinations</a>
+		<a href="hotels.html">Hotels</a>
+		<a href="flights.html">Flight</a>
+		<a href="car_rentals.html">Car Rental</a>
+		<a href="index.html">Logout</a>
+		</div>
+	</div>
+	</header>
+<body>
+	
+    <section class="live-filter">
+        <div class="search">
+            <p>Hello travellers. Where would you like to go?</p>
+            <p>Search your favourite trips</p>
+            <input type="text" name="user" id="user" placeholder="search here...">
+        </div>
+        <div class="user-info">
+            <ul class="user-list">
+                <li>Loading...</li>
+               
+            </ul>
+        </div>
+    </section>
+
+    <script src="cars.js"></script>
+</body>
+</html>

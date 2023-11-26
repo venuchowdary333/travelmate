@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+<!-- Seperate CSS for Printing -->
+<link rel="stylesheet" type="text/css" href="printstyle.css" media="print">
+<script src="hotels.js"></script>
+</head>
+
+<header>
+<div class="header">
+	<a href="home.html" class="logo"><img src="homeimages/logo3.png"></a>
+	<div class="navbuttons">
+    <a href="home.html">Home</a>
+    <a href="destinations.html">Destinations</a>
+    <a href="hotels.html">Hotels</a>
+	<a href="flights.html">Flight</a>
+	<a href="car_rentals.html">Car Rental</a>
+	<a href="index.html">Logout</a>
+	</div>
+</div>
+</header>
+
+<body onload="loadXML('')" >
+
+
+<div id="page-container">
+	<div id="content-wrap">
+	
+		<div class="main">
+			<div id="rightblock1">
+				<h2>Hotels:</h2>
+				<h3>Search your places to stay</h3>
+				<div><p id="filter" >Filter Results:</p>
+	
+					<select id="productquery" onchange="loadXML('select')" >
+						<option value="/PLACES/DESTINATION">Show All</option>
+						<option value="//COUNTRY[contains(text(),'ITALY')]/parent::node()">Italy</option>
+						<option value="//COUNTRY[contains(text(),'CALIFORNIA')]/parent::node()">California</option>
+						<option value="//COUNTRY[contains(text(),'AUSTRALIA')]/parent::node()">Australia</option>
+					</select>
+					
+					<div id="resultarea" >
+					</div>
+					
+					
+				</div>
+			
+	</div>
+	</div>
+		
+		
+	</div>
+	
+	<footer id="footer">
+	<p><br>Copyright © 2023 - TravelMate - All Rights Reserved.</p>
+	</footer>
+</div>
+
+
+
+</body>
+</html>

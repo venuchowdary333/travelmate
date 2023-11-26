@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLACES>
+	<DESTINATION>
+		<COUNTRY>ITALY</COUNTRY>
+		<PLACE>Radisson Blu Ghr Hotel</PLACE>
+		<DESC>The 5-star Grand Hotel Ritz offers comfort and convenience whether you're on business or holiday in Rome. Both business travelers and tourists can enjoy the hotel's facilities and services. Free Wi-Fi in all rooms, daily housekeeping, taxi service, wheelchair accessible, 24-hour front desk are on the list of things guests can enjoy. Designed for comfort, selected guestrooms offer television LCD/plasma screen, additional bathroom, additional toilet, carpeting, sofa to ensure a restful night. Enjoy the hotel's recreational facilities, including fitness center, sauna, spa, massage, before retiring to your room for a well-deserved rest. Grand Hotel Ritz combines warm hospitality with a lovely ambiance to make your stay in Rome unforgettable.</DESC>
+		<STAY>Rome</STAY>
+		<IMAGE>homeimages/italyrome.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>ITALY</COUNTRY>
+		<PLACE>Hotel Marina Riviera</PLACE>
+		<DESC>The Hotel Marina Riviera features a terrace overlooking the Mediterranean Sea, a Turkish bath, and a sensory shower. The hotel is on Amalfi's seaside promenade, 250 metres from the Cathedral. All rooms at the Marina Riviera Hotel are spacious and elegantly furnished. Each room features a balcony or large windows overlooking the promenade and the beach. Guests can enjoy drinks and snacks throughout the day, served in the comfortable lounge or out on the terrace. A varied buffet is served for breakfast.</DESC>
+		<STAY>Amalfi Coast</STAY>
+		<IMAGE>homeimages/italyamalfi.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>ITALY</COUNTRY>
+		<PLACE>NH Collection Firenze Porta Rossa</PLACE>
+		<DESC>The five star NH Collection Firenze Porta Rossa hotel is thought to be the oldest hotel in Italy and dates back to the 13th century. This extraordinary hotel features marvelous frescos and is set in the heart of historic Florence. Steps away, you will find the famous Uffizi Gallery, the breathtaking Duomo, and the Arno River with the Ponte Vecchio. High-end boutiques and fine dining are also close by, on the elegant Via Tornabuoni. Our 70 rooms combine modern design with classic elegance. Each room has ivory-colored furniture, natural wood, and warm tones, while many feature stunning frescos and restored 19th century pieces. There's also a pillow menu available. Our Torre Monalda Suite is truly unique as it is set in the historic tower and has panoramic views over the city. The Presidential Suite is ideal for an intimate celebration or event. Our fine breakfast is served in a beautiful traditional room and offers a large variety of hot and cold dishes, along with freshly pressed juices and brewed Italian coffee. For a light meal accompanied by a cocktail or regional wine, head to Bar.</DESC>
+		<STAY>Florence</STAY>
+		<IMAGE>homeimages/italyflorence.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>CALIFORNIA</COUNTRY>
+		<PLACE>The Westin St. Francis San Francisco on Union Square</PLACE>
+		<DESC>Timeless yet modern, The Westin St. Francis San Francisco on Union Square has been offering guests a warm welcome and an enriching, restorative stay since its opening on March 21, 1904. With its turn-of-the-20th-century European style, our downtown San Francisco hotel blends the elegance of oak-paneled restaurants and the stately grandeur of the lobby with a $45 million reinvention of the Landmark Building guest rooms, ushering in a new chapter for this storied destination. At this standout among San Francisco hotels on Union Square, you can host events in venues and ballrooms where the finest big bands once played. Recharge in elegant rooms, many featuring chandeliers and marble bathrooms, with modern touches like Heavenly Beds and Enseo Smart TV systems. As the only hotel on Union Square, SF, it is close to the Financial District and Moscone Convention Center, and with cable cars just outside our front doors, we are at the intersection of the glorious past and vibrant present of this incredible city.</DESC>
+		<STAY>San Francisco</STAY>
+		<IMAGE>homeimages/californiasan.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>CALIFORNIA</COUNTRY>
+		<PLACE>The Ahwahnee</PLACE>
+		<DESC>Located in Yosemite Village, 2.4 miles from El Capitan, The Ahwahnee has accommodations with an outdoor swimming pool, free private parking, a shared lounge and a restaurant. With free WiFi, this 4-star hotel offers room service and a 24-hour front desk. The property provides an ATM, a concierge service and luggage storage for guests. The private bathroom is equipped with a shower, free toiletries and a hairdryer. At the hotel rooms include bed linen and towels. Guests at The Ahwahnee will be able to enjoy activities in and around Yosemite Village, like hiking, skiing and fishing. There's an in-house bar and guests can also use the business area. Yosemite Valley is a 8-minute walk from the accommodation, while Vernal Falls is 7.9 miles from the property. The nearest airport is Merced Municipal Airport, 81 miles from The Ahwahnee.</DESC>
+		<STAY>Yosemite National Park</STAY>
+		<IMAGE>homeimages/californiaanwahee.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>AUSTRALIA</COUNTRY>
+		<PLACE>Four Seasons Hotel Sydney</PLACE>
+		<DESC>Overlooking Sydney Harbour, Four Seasons Hotel Sydney offers complimentary Premium WiFi, a bar, restaurant, fitness centre and swimming pool. Situated in Sydney CBD (Central Business District) and the historic Rocks, it features luxurious rooms with panoramic views over the iconic Sydney Opera House and Circular Quay. All rooms at Four Seasons Hotel Sydney have been carefully designed and subtly furnished with the highest quality amenities. To enjoy the best views of Sydney’s harbour, the Deluxe Full Harbour Room and Four Seasons Full Harbour King Rooms both provide unobstructed views of the harbour. Complimentary access to Lounge 32 is available for all guests in a Four Seasons Full Harbour King room and signature suites. Each room offers an LCD TV, slippers and Christian Lacroix toiletries. Chinese tea can be provided in the rooms upon request. Guests can dine at Mode Kitchen and Bar, which serves modern Australian dishes made with quality local and seasonal produce. Grain Bar offers a selection of cocktails, wine, local beer and craft spirits. Four Seasons Hotel Sydney state-of-the-art 350 square metre fitness centre is fully equipped. Guests can also unwind in the hotel’s therapeutic spa and wellness centre, which offers skin treatments and relaxing massages. Airport transfers are available upon request. Chinese speaking staff are available on-site to assist you. Union Pay credit cards are accepted.</DESC>
+		<STAY>Sydney</STAY>
+		<IMAGE>homeimages/australiafour.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>AUSTRALIA</COUNTRY>
+		<PLACE>Crystalbrook Flynn</PLACE>
+		<DESC>Located in Cairns, 1.1 km from Cairns Station, Crystalbrook Flynn provides accommodation with an outdoor swimming pool, private parking, a fitness centre and a restaurant. With free WiFi, this 5-star hotel offers room service and a 24-hour front desk. Certain rooms at the property include a balcony with a city view. Popular points of interest near the hotel include Cairns Convention Centre, Cairns Regional Gallery and The Cairns Civic Theater. The nearest airport is Cairns Airport, 7 km from Crystalbrook Flynn.</DESC>
+		<STAY>Great Barrier Reef</STAY>
+		<IMAGE>homeimages/australiacrystal.jpg</IMAGE>
+	</DESTINATION>
+</PLACES>

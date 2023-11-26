@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLACES>
+	<DESTINATION>
+		<COUNTRY>ITALY</COUNTRY>
+		<PLACE>Rome</PLACE>
+		<DESC>Tourists congregate here in the summer when temperatures are also sweltering. Go instead between October and April, when there are thinner crowds, better rates and cooler temps. Just make sure to bring a light jacket.</DESC>
+		<STAY>Radisson Blu Ghr Hotel</STAY>
+		<IMAGE>homeimages/italy3.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>ITALY</COUNTRY>
+		<PLACE>Amalfi Coast</PLACE>
+		<DESC>Set in the Sorrentina Peninsula, the Amalfi Coast has long been renowned for its natural beauty and idyllic coastal towns. During the golden age of Hollywood, it was a preferred vacation spot for glamorous movie stars.</DESC>
+		<STAY>Hotel Marina Riviera</STAY>
+		<IMAGE>homeimages/italy2.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>ITALY</COUNTRY>
+		<PLACE>Florence</PLACE>
+		<DESC>For art and history buffs (and anyone who appreciates delicious Italian food), Florence is a must-visit city. </DESC>
+		<STAY>NH Collection Firenze Porta Rossa</STAY>
+		<IMAGE>homeimages/italy1.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>CALIFORNIA</COUNTRY>
+		<PLACE>San Francisco</PLACE>
+		<DESC>Everyone should visit San Francisco at least once in their lives. Though tech companies grab all the headlines these days, it remains down-to-earth, diverse and packed with things to do.</DESC>
+		<STAY>The Westin St. Francis San Francisco on Union Square</STAY>
+		<IMAGE>homeimages/california1.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>CALIFORNIA</COUNTRY>
+		<PLACE>Yosemite National Park</PLACE>
+		<DESC>Yosemite, one of the most-visited national parks in America with more than 4 million annual guests, encompasses 750,000 acres of wilderness just waiting to be explored.</DESC>
+		<STAY>The Ahwahnee</STAY>
+		<IMAGE>homeimages/california2.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>AUSTRALIA</COUNTRY>
+		<PLACE>Sydney</PLACE>
+		<DESC>With its iconic Opera House and lively Bondi Beach, Sydney is the perfect spot to vacation if you’re looking for a blend of culture, arts, nightlife and relaxation.</DESC>
+		<STAY>Four Seasons Hotel Sydney</STAY>
+		<IMAGE>homeimages/australia1.jpg</IMAGE>
+	</DESTINATION>
+	<DESTINATION>
+		<COUNTRY>AUSTRALIA</COUNTRY>
+		<PLACE>Great Barrier Reef</PLACE>
+		<DESC>As the largest reef in the world, the Great Barrier Reef is home to thousands of marine species. This makes it a paradise for scuba diving or snorkeling. </DESC>
+		<STAY>Crystalbrook Flynn</STAY>
+		<IMAGE>homeimages/australia2.jpg</IMAGE>
+	</DESTINATION>
+</PLACES>

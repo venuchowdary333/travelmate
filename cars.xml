@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact>
+    <person>
+        <firstname>Italy</firstname>
+        <lastname>Bently Bentayga 2018</lastname>
+        <phone>5.0</phone>
+        <street>$256/day</street>
+
+    </person>
+    <person>
+        <firstname>Italy</firstname>
+        <lastname>Mecedes Benz G-Class 2020</lastname>
+        <phone>5.0</phone>
+        <street>$232/day</street>
+    </person>
+    <person>
+        <firstname>Italy</firstname>
+        <lastname>Chevrolet Corvette</lastname>
+        <phone>4.92</phone>
+        <street>$144/day</street>
+    </person>
+    <person>
+        <firstname>Italy</firstname>
+        <lastname>Dodge Challenger 2022</lastname>
+        <phone>5.0</phone>
+        <street>$54/day</street>
+    </person>
+    <person>
+        <firstname>California</firstname>
+        <lastname>Mercedes-Benz AMG GT 2020</lastname>
+        <phone>5.0</phone>
+        <street>$136/day</street>
+    </person>
+    <person>
+        <firstname>California</firstname>
+        <lastname>Bentley Flying Spur 2015</lastname>
+        <phone>4.83</phone>
+        <street>$265/day</street>
+    </person>
+    <person>
+
+        <firstname>Australia</firstname>
+        <lastname>Chevrolet Corvette</lastname>
+
+        <phone>4.75</phone>
+
+        <street>$166/day</street>
+
+    </person>
+    <person>
+
+        <firstname>Australia</firstname>
+        <lastname>Nissan Pathfinder 2023</lastname>
+
+        <phone>4.0</phone>
+
+        <street>$55/day</street>
+
+    </person>
+    <person>
+
+        <firstname>Australia</firstname>
+        <lastname>Toyota Venza 2022</lastname>
+
+        <phone>5.0</phone>
+
+        <street>$48/day</street>
+
+    </person>
+</contact>

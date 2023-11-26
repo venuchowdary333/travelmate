@@ -1,0 +1,34 @@
+[
+    {
+        "login": "Italy",        
+        "avatar_url": "Bently Bentayga 2018",
+        "html_url": "$256/day"
+    },
+
+    {
+        "login": "Italy",        
+        "avatar_url": "Mecedes Benz G-Class 2020",
+        "html_url": "$232/day"
+    },
+
+    {
+        "login": "Italy",        
+        "avatar_url": "Chevrolet Corvette",
+        "html_url": "$144/day"
+    },
+    {
+        "login": "Italy",        
+        "avatar_url": "Dodge Challenger 2022",
+        "html_url": "$54/day"
+    },
+    {
+        "login": "California",        
+        "avatar_url": "Mercedes-Benz AMG GT 2020",
+        "html_url": "$136/day"
+    },
+    {
+        "login": "India",        
+        "avatar_url": "Tata Nano",
+        "html_url": "$45/day"
+    }
+]

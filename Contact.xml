@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact>
+    <person>
+        <name>
+            <firstname>Bob</firstname>
+            <lastname>Jones</lastname>
+        </name>
+        <phone>(02)44 42 45 63</phone>
+        <address>
+            <street>34 Highway Road</street>
+            <city>Grovedale</city>
+            <state>NSW</state>
+            <postcode>3228</postcode>
+            <email>bob.jones@email.com</email>
+        </address>
+    </person>
+    <person>
+        <name>
+            <firstname>Gary</firstname>
+            <lastname>Williams</lastname>
+        </name>
+        <phone>(02)44 41 87 56</phone>
+        <address>
+            <street>223 Yarra Avenue</street>
+            <city>Branston</city>
+            <state>NSW</state>
+            <postcode>2317</postcode>
+            <email>gary.williams@email.com</email>
+        </address>
+    </person>
+</contact>

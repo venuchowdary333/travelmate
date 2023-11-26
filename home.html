@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- prevents browsers from overriding telephone css -->
+<meta name="format-detection" content="telephone=no"/>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen">
+<!-- Seperate CSS for Printing -->
+<link rel="stylesheet" type="text/css" href="printstyle.css" media="print">
+
+
+<script src="javascript.js"></script>
+
+
+</head>
+<body>
+<header>
+<div class="header">
+	<a href="index.html" class="logo"><img src="homeimages/logo3.png"></a>
+	<div class="navbuttons">
+    <a href="home.html" class="active">Home</a>
+    <a href="destinations.html">Destinations</a>
+    <a href="hotels.html">Hotels</a>
+	<a href="flights.html">Flight</a>
+	<a href="car_rentals.html">Car Rental</a>
+	<a href="index.html">Logout</a>
+	
+	</div>
+</div>
+</header>
+<body >
+
+<div id="page-container">
+	<div id="content-wrap">
+	
+		<h1>Welcome to TravelMate!</h1>
+	
+		<div class="row">
+			<div class="side">
+				<div id="leftside">
+					<h2>Flights:</h2>
+					<form id="flight-form" onsubmit="return validateForm()">
+						<div class="row">
+							<div class="form-group col-md align-items-start flex-column">
+								<label for="origin" class="d-inline-flex">From</label>
+								<input type="text" placeholder="City or Airport" class="form-control" id="origin" name="origin"
+									required>
+							</div>
+							<div class="form-group col-md align-items-start flex-column">
+								<label for="depart" class="d-inline-flex">To</label>
+								<input type="text" placeholder="City or Airport" class="form-control" id="depart" name="depart"
+									required>
+							</div>
+						</div>
+						
+						<div class="row">
+							<div class="text-left col-auto">
+								<button type="button" onclick="searchXML()" class="btn btn-primary">Search flights</button>
+							</div>
+						</div>
+					</form>
+					<div id="flightarea" >
+					</div>
+					
+					<div id="flightdestination" >
+					</div>	
+				</div>
+			</div>
+
+			
+
+			<div class="main">
+				<div id="rightblock1">
+					<h2>Destinations:</h2>
+					<h3>Search your places to visit</h3>
+					<div><p id="filter" >Filter Results:</p>
+		
+						<select id="productquery" onchange="loadXML('select')" >
+							<option value="/PLACES/DESTINATION">Show All</option>
+							<option value="//COUNTRY[contains(text(),'ITALY')]/parent::node()">Italy</option>
+							<option value="//COUNTRY[contains(text(),'CALIFORNIA')]/parent::node()">California</option>
+							<option value="//COUNTRY[contains(text(),'AUSTRALIA')]/parent::node()">Australia</option>
+						</select>
+						
+						<div id="resultarea" >
+						</div>
+						
+						<div id="destinations" >
+						</div>	
+					</div>
+				
+		</div>
+		<div id="rightblock2">
+			<h2>Hotels</h2>
+			<h3>Search for your favourite hotels.</h3>
+			<div><p id="filter" >Filter Results:</p>
+
+				<select id="hotelquery" onchange="loadXML1('select')" >
+					<option value="/PLACES/DESTINATION">Show All</option>
+					<option value="//COUNTRY[contains(text(),'ITALY')]/parent::node()">Italy</option>
+					<option value="//COUNTRY[contains(text(),'CALIFORNIA')]/parent::node()">California</option>
+					<option value="//COUNTRY[contains(text(),'AUSTRALIA')]/parent::node()">Australia</option>
+				</select>
+
+				<div id="hotelarea" >
+				</div>
+				
+				<div id="hoteldestinations" >
+				</div>
+		</div>	
+	</div>
+		
+</div>
+	
+	<footer id="footer">
+	<p><br>Copyright © 2023 - TravelMate - All Rights Reserved.</p>
+	</footer>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
